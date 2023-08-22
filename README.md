@@ -1,3 +1,4 @@
 hexlet-my-first-workflow
-![example workflow]
-(https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![GitHub 
+Actions](https://github.com/maksimovyd/hexlet-my-first-workflow/workflows/hello-world/badge.svg)](https://github.com/USERNAME/REPOSITORY/actions)
+
